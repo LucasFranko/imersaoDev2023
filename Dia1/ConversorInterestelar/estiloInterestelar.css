@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://images7.alphacoders.com/605/605930.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+body h1 {
+  font-size: 40px;
+  color: #ffffff;
+  text-shadow: 0 0 10px #FF4500;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
